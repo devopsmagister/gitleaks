@@ -1,0 +1,5 @@
+[[rules]] 
+   id = "google-sa-api-key" 
+   description = "Google API key" 
+   regex = '''[0-9a-f\-_]{40}''' 
+   tags = ["key", "Google"]
